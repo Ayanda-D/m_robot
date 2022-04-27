@@ -4,12 +4,14 @@
 *.beam
 *.plt
 erl_crash.dump
+m_robot.d
 .concrete/DEV_MODE
 
 # rebar 2.x
 .rebar
 rel/example_project
 ebin/*.beam
+ebin/*.app
 deps
 
 # rebar 3
